@@ -1,0 +1,7 @@
+{
+  "destino": "GEMINI.md",
+  "fragmentos": [
+    "security-zero-trust.md",
+    "git-workflow-conventional.md"
+  ]
+}

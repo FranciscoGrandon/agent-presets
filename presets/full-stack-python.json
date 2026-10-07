@@ -1,0 +1,9 @@
+{
+  "destino": "AGENTS.md",
+  "fragmentos": [
+    "security-zero-trust.md",
+    "clean-code-standards.md",
+    "git-workflow-conventional.md",
+    "pytest-testing-guidelines.md"
+  ]
+}
